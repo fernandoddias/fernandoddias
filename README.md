@@ -1,10 +1,10 @@
  <h1> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4234e284-3093-4596-9bec-acd642ef4d8d/d59l1i7-4605fd4d-d2e1-41df-9ebb-d2bc191d280f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNDIzNGUyODQtMzA5My00NTk2LTliZWMtYWNkNjQyZWY0ZDhkXC9kNTlsMWk3LTQ2MDVmZDRkLWQyZTEtNDFkZi05ZWJiLWQyYmMxOTFkMjgwZi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.LvogcWR-RvSWyhf3Vj6gHXRJQhyvZDsoSsLvU8G-iu8" width="50px" style="max-width:100%;"> Hi, I'm Fernando </h1>
 
 I'm a student Front-end Developer Html, Css, Javascript, Node, React, Vue.Js.
-interested in web development.
-I'm from Brasil :brazil:, I'm 30 years old. 
-I try to have knowledge, not only in terms of programming, but also in computer networks, cabling, cloud computing, wireless network and information security
-"Only receives a no, who has the audacity to search for a yes!!!"
+<p>interested in web development.</p>
+<p>I'm from Brasil :brazil:, I'm 30 years old.</p>
+<p>I try to have knowledge, not only in terms of programming, but also in computer networks, cabling, cloud computing, wireless network and information security</p>
+<p>"Only receives a no, who has the audacity to search for a yes!!!"</p>
 
 
 ![thiagonmiziara GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandoddias&show_icons=true&theme=midnight-purple)
